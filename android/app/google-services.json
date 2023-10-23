@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "128153955399",
+    "project_id": "stemz-453d5",
+    "storage_bucket": "stemz-453d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128153955399:android:17a3b019bcca91a4f45562",
+        "android_client_info": {
+          "package_name": "com.example.stemz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128153955399-d2hqglhmn1rleoe082ebk93tgfu4ulrl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.stemz",
+            "certificate_hash": "4130c8bb4505d51fdeb8c610a334ea7f470dadfb"
+          }
+        },
+        {
+          "client_id": "128153955399-ln0dl55r9u18v8jmvfss8n5qeuvbq7se.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJNUzp7w_hzqEv5pLCORw4XbBoY_m8mbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128153955399-ln0dl55r9u18v8jmvfss8n5qeuvbq7se.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "128153955399-goihkj35c45uc8085mditalrf7176q1l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.stemz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
