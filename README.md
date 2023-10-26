@@ -1,6 +1,7 @@
 # stemz
 
-A new Flutter project.
+automated and secured chat app well documented for personal or professional use, feel free to request any further modification
+every file from the structure has comments following every section of code and what is it for so don't ask me for explaining if you can't run it on your server. contact me for migration services I include updates and icons throughout channels and all supported hosting methods
 
 ## Getting Started
 
